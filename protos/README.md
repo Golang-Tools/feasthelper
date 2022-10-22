@@ -1,0 +1,3 @@
+# Feast Protos
+
+需要修改gopackage以及import中的路径.编译好后的源码也要注意import的路径
